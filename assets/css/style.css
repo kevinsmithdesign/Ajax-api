@@ -1,0 +1,28 @@
+
+body {
+	font-family:helvetica;
+}
+
+h5 {
+	font-weight:bold;
+}
+
+button {
+	background-color:green;
+	border:none;
+	margin-right:3px;
+	margin-top:10px;
+	border-radius:3px;
+	color:white;
+	padding:5px;
+}
+
+#addState {
+	background-color:red;
+	color:white;
+	border:none;
+	border-radius:3px;
+	color:white;
+	width:60px;
+
+}
